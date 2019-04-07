@@ -10,6 +10,7 @@ public class TestController {
 
 
     public static void main(String[] args) {
-
+		String name = "sss";
+		int age = 111;
     }
 }
