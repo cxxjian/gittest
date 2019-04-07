@@ -7,4 +7,9 @@ package com.cxj.git.controller;
  * @Description：
  */
 public class TestController {
+
+
+    public static void main(String[] args) {
+
+    }
 }
