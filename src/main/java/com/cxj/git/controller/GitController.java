@@ -14,6 +14,6 @@ public class GitController {
 
     @RequestMapping("/git")
     public String gitTest(){
-        return "hello git...";
+        return "hello git...v:1.0.0";
     }
 }
